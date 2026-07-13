@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Secrets — NEVER commit these
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+credentials/
+config.local.*
+
+# Chrome / Playwright runtime
+.playwright-mcp/
+.playwright-cache/
+*.log
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Personal — never commit your browser profile
+# (Replace <YOUR_PROFILE_PATH> in code, never commit the actual path)
+profiles/
+chrome-profiles/
+browser-data/
+
+# Test outputs
+test-results/
+playwright-report/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Build artifacts
+*.whl
+*.tar.gz
