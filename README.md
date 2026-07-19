@@ -2,9 +2,9 @@
 
 > **Browser automation that AI agents actually understand.**
 
-[![PyPI version](https://img.shields.io/badge/pypi-coming--soon-yellow.svg)](https://pypi.org)
+[![PyPI](https://img.shields.io/pypi/v/mcpwright.svg)](https://pypi.org/project/mcpwright/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Platform: Windows | WSL2 | Linux | macOS](https://img.shields.io/badge/platform-Windows%20%7C%20WSL2%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](#cross-platform)
+[![Platform: Windows | WSL2 | Linux | macOS](https://img.shields.io/badge/platform-Windows%20%7C%20WSL2%20Linux%20%7C%20macOS-lightgrey.svg)](#cross-platform)
 [![Built on Playwright + MCP](https://img.shields.io/badge/built%20on-Playwright%20%2B%20MCP-orange.svg)](https://modelcontextprotocol.io)
 
 ---
@@ -55,7 +55,7 @@ The agent tries. It clicks. It types. It crashes.
 pip install mcpwright
 ```
 
-That's it. Once published to PyPI, this will be `pip install mcpwright` — for now, clone this repo and `pip install -e .` to get started.
+**✅ Now published to PyPI** (v0.1.1, since 2026-07-17). The above command works for any user. No clone needed.
 
 ### 2. Make sure Playwright MCP is available
 
