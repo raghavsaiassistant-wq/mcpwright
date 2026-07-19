@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mcpwright"
-version = "0.1.0"
+version = "0.1.1"
 description = "Browser automation that AI agents actually understand. Playwright + MCP for LLM-driven browser control."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -36,4 +36,4 @@ Homepage = "https://github.com/raghavsaiassistant-wq/mcpwright"
 Issues = "https://github.com/raghavsaiassistant-wq/mcpwright/issues"
 
 [tool.setuptools]
-packages = ["core"]
+packages = ["mcpwright"]
