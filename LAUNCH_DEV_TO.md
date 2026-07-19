@@ -87,6 +87,6 @@ The smoke test launches a real browser session and verifies a basic flow. If it 
 I'm Raghav — BBA-Finance grad, self-taught via AI. This is the first library I've thought was worth open-sourcing. PRs, issues, and stars all appreciated.
 
 GitHub: https://github.com/raghavsaiassistant-wq/mcpwright
-Release v0.1.0: https://github.com/raghavsaiassistant-wq/mcpwright/releases/tag/v0.1.0
+Release v0.1.1: https://github.com/raghavsaiassistant-wq/mcpwright/releases/tag/v0.1.1
 
 If you try it, I'd love to hear what's broken on the websites you're targeting.

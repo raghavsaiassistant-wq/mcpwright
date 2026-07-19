@@ -56,7 +56,7 @@ But the real value is in the resilience layer:
 **Links:**
 
 - GitHub: https://github.com/raghavsaiassistant-wq/mcpwright
-- Release v0.1.0: https://github.com/raghavsaiassistant-wq/mcpwright/releases/tag/v0.1.0
+- Release v0.1.1: https://github.com/raghavsaiassistant-wq/mcpwright/releases/tag/v0.1.1
 - Install: `git clone` + `pip install -e .` (PyPI publish coming soon)
 
 **About me:** BBA-Finance grad, self-taught via AI. Not a CS background. Built this because I needed it for my own AI agent projects. Happy to take PRs, issue reports, or just hear what's broken on the websites you're targeting.

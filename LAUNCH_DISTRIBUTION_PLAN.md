@@ -2,14 +2,14 @@
 
 **Goal:** First 100 stars in 7 days. First 1,000 stars in 30 days. (Realistic for a well-promoted niche Python lib.)
 
-**Launch date:** 2026-07-19 (today) — already pushed Release v0.1.0 to GitHub.
+**Launch date:** 2026-07-19 (today) — already pushed Release v0.1.1 to GitHub.
 
 ---
 
 ## 7-day launch schedule (IST)
 
 ### Day 1 (2026-07-19, Sun) — Foundation
-- ✅ GitHub Release v0.1.0 live
+- ✅ GitHub Release v0.1.1 live
 - ✅ pyproject.toml fixed (author email, install path)
 - ✅ Architecture diagram added
 - ✅ 5 launch posts drafted and committed to repo
@@ -105,7 +105,7 @@ If Day 3-4 shows weak traction (< 30 stars), trigger these in order:
 
 1. **Ask 3 friends who are devs to star + share** with their network (1-2 per friend = 6-12 stars + 50-100 impressions)
 2. **DM 5 people who star similar libraries** with "hey, I built something adjacent, would love your feedback" (don't ask for star, ask for feedback; stars follow)
-3. **Post a "v0.1.0 release notes" announcement on X** with the visual demo GIF (separate from the launch thread)
+3. **Post a "v0.1.1 release notes" announcement on X** with the visual demo GIF (separate from the launch thread)
 4. **Submit to awesome-python** via PR: https://github.com/vinta/awesome-python — this list gets 100+ daily views
 5. **Add a "Show HN"-style banner image to the GitHub repo** so the repo looks alive even if the post doesn't hit
 

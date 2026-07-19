@@ -40,4 +40,4 @@ MIT licensed. 1,007 LOC, 11 files. Genuinely small.
 Would love feedback, especially from people building AI agents. What's broken on the websites you target? What patterns are missing?
 
 GitHub: https://github.com/raghavsaiassistant-wq/mcpwright
-Release v0.1.0: https://github.com/raghavsaiassistant-wq/mcpwright/releases/tag/v0.1.0
+Release v0.1.1: https://github.com/raghavsaiassistant-wq/mcpwright/releases/tag/v0.1.1
