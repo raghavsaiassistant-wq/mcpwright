@@ -55,7 +55,7 @@ The agent tries. It clicks. It types. It crashes.
 pip install mcpwright
 ```
 
-That's it. (PyPI publish coming soon — for now, `git clone` this repo and `pip install -e .`.)
+That's it. Once published to PyPI, this will be `pip install mcpwright` — for now, clone this repo and `pip install -e .` to get started.
 
 ### 2. Make sure Playwright MCP is available
 

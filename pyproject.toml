@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
 authors = [
-    { name = "Raghav Modi" },
+    { name = "Raghav Modi", email = "raghavsaiassistant@gmail.com" },
 ]
 keywords = [
     "playwright", "mcp", "model-context-protocol", "browser-automation",
