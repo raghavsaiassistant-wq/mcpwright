@@ -1,3 +1,13 @@
+# 🚫 DRAFT — NOT POSTED (Sir cancelled 2026-07-19)
+
+**Status:** Sir ne bola "chodo kuch post nhi karna" — ye draft rakha hai, post nahi hua.
+
+**If Sir later decides to post:** Sirf `---` ke neeche wala content copy kare aur LinkedIn composer me paste kare. Ya mujhe bolein "ab post kar", gate verified hai (token valid, audience same).
+
+**Why kept on disk:** Future reference — next time Sir kuch post karna chahe, ye proven hook structure (1-week data + 0-engagement honesty + 3 updates + 5 patterns) ready hai.
+
+---
+
 # mcpwright — 1-Week Update (LinkedIn post draft, 2026-07-19)
 
 **Hook type:** "1 week" data post (LinkedIn gold — numbers beat opinions)
