@@ -26,7 +26,7 @@ import sys
 # Add the parent directory to sys.path so we can import mcpwright
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from core.session import browser_session
+from mcpwright.session import browser_session
 
 
 def main():

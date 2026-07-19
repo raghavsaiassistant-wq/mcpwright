@@ -75,7 +75,7 @@ def main():
     # Add core to path
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     try:
-        from core.session import browser_session
+        from mcpwright.session import browser_session
         check("mcpwright.session importable", True)
     except ImportError as e:
         check(f"mcpwright.session: {e}", False)

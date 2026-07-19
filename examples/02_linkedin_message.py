@@ -24,8 +24,8 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from core.session import browser_session
-from core.resilience import smart_wait, react_aware_type
+from mcpwright.session import browser_session
+from mcpwright.resilience import smart_wait, react_aware_type
 
 
 def main():
